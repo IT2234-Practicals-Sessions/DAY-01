@@ -1,7 +1,8 @@
 # DAY-01
 WEB SERVER AND SERVICES TECNOLOGIES - PRCTICAL SESSION IN DAY 01
 01. Print "Hello world"
-![intro of js](https://github.com/user-attachments/assets/e5a8a6cc-ddc9-46b6-aa20-6fa857d924a9)
+![intro of js](https://github.com/user-attachments/assets/235c51a8-d984-461a-8928-675d9a7c04e0)
+
 
 02. Arithmetic Operations
 
